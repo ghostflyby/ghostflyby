@@ -1,1 +1,1 @@
-student, still learning
+university student, still learning
